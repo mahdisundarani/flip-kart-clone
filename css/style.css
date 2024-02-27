@@ -79,6 +79,7 @@ nav ul li a:hover {
     margin: 10px auto;
     width: 80vw;
     overflow: hidden;
+    background-size: cover;
 }
 .card{
     max-width: 91vw;
